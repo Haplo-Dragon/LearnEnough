@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"articl",
+				"article_path"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ssyn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssyn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssynt bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssynt ht",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ssyn rub",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ssyhm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"set syntax rub",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ssyru",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"set syp",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css"
+	],
+	"file_history":
+	[
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/head.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/default.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css/main.css",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/styles.css",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css/reset.css",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/index.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.git/MERGE_MSG",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.git/COMMIT_EDITMSG",
+		"/I/Users/Haplo/Documents/GitHub/Android Testing Codelab/android-testing/.git/MERGE_MSG",
+		"/I/Users/Haplo/Games/Minecraft Spigot Server/start.sh",
+		"/I/Users/Haplo/Desktop/test.sh",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/controllers/articles_controller.rb",
+		"/I/Users/Haplo/Documents/GitHub/python_koans/.git/COMMIT_EDITMSG",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/controllers/application_controller.rb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/controllers/welcome_controller.rb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/controllers/comments_controller.rb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/views/comments/_comment.html.erb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/views/articles/show.html.erb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/models/article.rb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/views/comments/_form.html.erb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/assets/javascripts/articles.coffee",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/assets/javascripts/comments.coffee",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/helpers/articles_helper.rb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/helpers/comments_helper.rb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/config/routes.rb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/models/comment.rb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/views/articles/index.html.erb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/views/articles/new.html.erb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/views/articles/_form.html.erb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/views/articles/edit.html.erb",
+		"/I/Users/Haplo/Documents/Ruby/Rails/blog/app/views/welcome/index.html.erb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CRAFT_NAME",
+			"SPIGOT_NAME",
+			"CRAFT_VERSION",
+			"SPIGOT_VERSION"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learnenough.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

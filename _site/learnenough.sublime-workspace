@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"row",
+				"row-reverse"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
 				"inli",
 				"inline-block"
 			],
@@ -115,21 +123,27 @@
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css"
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery"
 	],
 	"file_history":
 	[
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.git/COMMIT_EDITMSG",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/default.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/footer.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css/main.css",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery/index.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/index.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/default.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/nav-links.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/test.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery/test/index.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/test.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.git/COMMIT_EDITMSG",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.gitignore",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/footer.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/hero-social-links.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/header.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/nav-links.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/head.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/styles.css",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css/reset.css",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/index.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.git/MERGE_MSG",
 		"/I/Users/Haplo/Documents/GitHub/Android Testing Codelab/android-testing/.git/MERGE_MSG",
 		"/I/Users/Haplo/Games/Minecraft Spigot Server/start.sh",
@@ -275,7 +289,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 215.0,
+	"side_bar_width": 170.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"col",
+				"column-reverse"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bad",
+				"background-color"
+			],
+			[
 				"row",
 				"row-reverse"
 			],
@@ -47,10 +59,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 137.0,
-		"last_filter": "ssyn css",
+		"height": 104.0,
+		"last_filter": "ssynhtml li",
 		"selected_items":
 		[
+			[
+				"ssynhtml li",
+				"Set Syntax: HTML (Liquid)"
+			],
 			[
 				"ssyn css",
 				"Set Syntax: CSS"
@@ -137,30 +153,32 @@
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_posts",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/blog",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery"
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css"
 	],
 	"file_history":
 	[
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/blog/index.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/head.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/post.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/recent-post-list.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_posts/2017-10-06-title-of-second-post.md",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/index.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/hero-social-links.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css/main.css",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/header.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/nav-links.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.git/COMMIT_EDITMSG",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_posts/2017-10-05-title-of-post.md",
 		"/C/Users/Haplo/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 		"/C/Users/Haplo/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/C/Users/Haplo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/blog/index.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/nav-links.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_posts/2017-10-05-title-of-post.md",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery/index.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/index.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/default.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/test.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery/test/index.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/test.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.git/COMMIT_EDITMSG",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.gitignore",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/footer.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/hero-social-links.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/header.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/head.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/styles.css",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css/reset.css",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/.git/MERGE_MSG",

@@ -1,17 +1,43 @@
 <html>
 <head>
-    <title>Test Page: Don't Panic</title>
-    <meta charset="utf-8">    
+    
+    	<title>Second post WOO | Test Page</title>
+    
+
+    
+        <meta name="description" content="This is a dangerous site.">
+    
+    
+    <link rel="icon" href="/favicon.png">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:100"> 
+    <link rel="stylesheet" href="/fonts/font-awesome-4.7.0/css/font-awesome.css">
+
     <link rel="stylesheet" type="text/css" href="/css/reset.css">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">   
+
   </head>
   <body>
     <header class="header">
 	<nav>
+		<input type="checkbox" id="mobile-menu" class="mobile-menu-check">
+		<label class="show-mobile-menu" for="mobile-menu">Menu</label>
 		<ul class="header-nav nav-links">
 			<li><a href="/">Home</a>
 <li><a href="/gallery">Gallery</a>
-<li><a href="/blog">Blog</a>
+<li class="dropdown">
+	<a href="/blog" class="drop-trigger">Blog</a>
+	<ul class="drop-menu">
+		<li>Recent Posts</li>
+		
+			<li><a href="/2017/10/06/title-of-second-post.html">Second post WOO</a></li>
+		
+			<li><a href="/2017/10/05/title-of-post.html">This is the title of the post</a></li>
+		
+	</ul>
+</li>
 <li><a href="/2017/10/06/title-of-second-post.html">Newest Post</a>
 		</ul>
 	</nav>
@@ -29,7 +55,9 @@
 			<h1>Second post WOO</h1>
 			<div class="post-byline">
 				<img src="https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150" alt="Gravatar">
-				<a href="http://twitter.com/mhartl" class="social-link">Tw</a>
+				<a href="http://twitter.com/mhartl" class="social-link">
+					<i class="fa fa-twitter"></i>
+				</a>
 				by: Hyuck
 				<span> - October 06, 2017</span>
 			</div>
@@ -89,18 +117,34 @@ cherish very nearly the same feelings towards the ocean with me.</p>
 		<ul class="footer-nav nav-links">
 			<li><a href="/">Home</a>
 <li><a href="/gallery">Gallery</a>
-<li><a href="/blog">Blog</a>
+<li class="dropdown">
+	<a href="/blog" class="drop-trigger">Blog</a>
+	<ul class="drop-menu">
+		<li>Recent Posts</li>
+		
+			<li><a href="/2017/10/06/title-of-second-post.html">Second post WOO</a></li>
+		
+			<li><a href="/2017/10/05/title-of-post.html">This is the title of the post</a></li>
+		
+	</ul>
+</li>
 <li><a href="/2017/10/06/title-of-second-post.html">Newest Post</a>
 		</ul>
 	</nav>
 	<h3>Learn Enough <span>to Be Dangerous</span></h3>
 	<ul class="social-list footer-social-links">
 		<li>
-  <a href="http://example.com/" class="social-link">FB</a>
+  <a href="http://facebook.com/learnenough" class="social-link">
+  	<i class="fa fa-facebook"></i>
+  </a>
 <li>
-  <a href="http://example.com/" class="social-link">Tw</a>
+  <a href="http://twitter.com/learnenough" class="social-link">
+  	<i class="fa fa-twitter"></i>
+  </a>
 <li>
-  <a href="http://example.com/" class="social-link">GH</a>
+  <a href="http://github.com/learnenough" class="social-link">
+  	<i class="fa fa-github"></i>
+  </a>
 
 	</ul>
 </footer>

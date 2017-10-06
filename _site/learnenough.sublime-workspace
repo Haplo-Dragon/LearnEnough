@@ -47,10 +47,26 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
-		"last_filter": "ssyn html li",
+		"height": 137.0,
+		"last_filter": "ssyn css",
 		"selected_items":
 		[
+			[
+				"ssyn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssynt css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyn mark",
+				"Set Syntax: Markdown"
+			],
 			[
 				"ssyn html li",
 				"Set Syntax: HTML (Liquid)"
@@ -62,10 +78,6 @@
 			[
 				"pack",
 				"Preferences: Browse Packages"
-			],
-			[
-				"ssyn css",
-				"Set Syntax: CSS"
 			],
 			[
 				"ssyn htm",
@@ -104,7 +116,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 130.0,
 		"history":
 		[
 		]
@@ -123,16 +135,23 @@
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_posts",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/blog",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery"
 	],
 	"file_history":
 	[
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/css/main.css",
+		"/C/Users/Haplo/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Haplo/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Haplo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/blog/index.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/nav-links.html",
+		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_posts/2017-10-05-title-of-post.md",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery/index.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/index.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/default.html",
-		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_includes/nav-links.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/_layouts/test.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/gallery/test/index.html",
 		"/I/Users/Haplo/Documents/Jekyll/Learn Enough/test.html",
